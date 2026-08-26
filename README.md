@@ -43,6 +43,7 @@
     src="https://komarev.com/ghpvc/?username=knvavinashreddy&style=for-the-badge&label=PROFILE%20VIEWS&color=E98BC3&labelColor=555555"
     alt="Profile views"
   />
+  </div>
 </div>
 
 <br>
