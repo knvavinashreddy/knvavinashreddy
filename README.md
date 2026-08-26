@@ -19,12 +19,7 @@
   
   <h1> Hey there, I'm Avinash Reddy Konala 👋 <h1/>
 
-  <a href="https://github.com/[YOUR_USERNAME]">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%E2%80%A2+AI%2FML+Engineer+%E2%80%A2+Creative+Web+Developer+%E2%80%A2+Problem+Solver+%E2%80%A2+Open+Source+Enthusiast+%E2%80%A2+Content+Creator"
-    alt="Full-Stack Developer • AI/ML Engineer • Creative Web Developer • Problem Solver • Open Source Enthusiast • Content Creator"
-  >
-</a>
+ <a href="https://github.com/[YOUR_USERNAME]"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;I+build+things+that+matter.;Turning+ideas+into+digital+experiences.;Focus.+Discipline.+Progress.;Always+learning.+Always+building." alt="Typing animation" > </a> I
 
   <br><br>
 
