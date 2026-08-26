@@ -29,11 +29,15 @@
     height="36"
     src="https://img.shields.io/github/followers/knvavinashreddy?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=E98BC3&labelColor=555555"
     alt="Followers"
-  /></a><a href="https://github.com/knvavinashreddy?tab=repositories"><img
+  />
+  &nbsp;&nbsp;
+  </a><a href="https://github.com/knvavinashreddy?tab=repositories"><img
     height="36"
     src="https://img.shields.io/github/stars/knvavinashreddy?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=white&color=E98BC3&labelColor=555555"
     alt="Stars"
-  /></a><img
+  />
+  &nbsp;&nbsp;
+  </a><img
     height="36"
     src="https://komarev.com/ghpvc/?username=knvavinashreddy&style=for-the-badge&label=PROFILE%20VIEWS&color=E98BC3&labelColor=555555"
     alt="Profile views"
