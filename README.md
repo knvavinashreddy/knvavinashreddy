@@ -8,7 +8,7 @@
 
   <!-- Top-Level Profile Banner -->
   <img
-  src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1787755612/ChatGPT_Image_Aug_26_2026_08_16_24_PM_x0m4gk.png"
+  src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1787757657/Black_and_White_Modern_Business_Profile_XTwitter_Header_k2na0e.png"
   width="100%"
   alt="[Avinash Reddy Konala] GitHub Profile Banner"
   style="border-radius: 15px;"
