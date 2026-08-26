@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hi, I'm **Avinash Reddy Konara** 👋<br><br>I'm a **21-year-old 3rd-year student at NIIT University**, passionate about technology, software development, and continuous learning.<br><br>💻 **Skills & Interests**<br><br>* Full-Stack Web Development<br>* Data Structures & Algorithms (DSA)<br>* Programming & Problem Solving<br>* Web Application Development<br>* AI/ML<br>* Backend & Frontend Development<br>* Database Management<br>* Git & GitHub<br>* Software Development<br><br>🎥 I'm also a **content creator**, where I share what I learn through tutorials and practical content on programming, DSA, web development, and building real-world applications.<br><br>🚀 My goal is to keep learning, build meaningful projects, and help others learn along the way.<br><br>**Learn. Build. Share. Repeat.**<br>
+
+Hi, I'm **Avinash Reddy Konara** 👋<br><br>
+
+I build software to **solve problems, learn by doing, and understand how things work**.<br><br>
+
+My main focus is **Full-Stack Development, Data Structures & Algorithms, and AI/ML**. I enjoy taking an idea or a problem, breaking it down, and turning it into a working solution. I care not only about making things work, but also about understanding the logic behind them and finding better ways to build them.<br><br>
+
+🎥 Alongside development, I'm a **technical content creator**. I share what I learn through programming tutorials, DSA, web development, and practical projects — keeping technical concepts **simple, clear, and useful**.<br><br>
+
+### 💻 What I Work On:
+
+* **Full-Stack Development** — building complete web applications from frontend to backend
+* **DSA & Problem Solving** — understanding problems, designing solutions, and improving efficiency
+* **AI/ML** — learning and building with intelligent systems
+* **Projects** — turning ideas into practical, working applications
+* **Technical Content** — learning, building, and teaching through real examples
+
+This profile is a collection of my **projects, experiments, and what I learn along the way**.<br><br>
+
+**Build. Solve. Learn. Share.**
 
 
 ## 🌐 Socials:
