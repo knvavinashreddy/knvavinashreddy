@@ -23,14 +23,26 @@
 
   <br>
 
-  <a href="https://github.com/knvavinashreddy?tab=followers">
-    <img src="https://img.shields.io/github/followers/knvavinashreddy?label=Followers&style=for-the-badge&color=EF93C4&labelColor=171717" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/knvavinashreddy?tab=repositories">
-    <img src="https://img.shields.io/github/stars/knvavinashreddy?affiliations=OWNER&label=Stars&style=for-the-badge&color=F8BBD0&labelColor=171717" alt="GitHub stars">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=knvavinashreddy&label=Profile%20Views&color=FF69B4&style=for-the-badge&labelColor=171717" alt="Profile views">
+  <div align="center">
 
+  <a href="https://github.com/knvavinashreddy?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/knvavinashreddy?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=E98BC3&labelColor=555555"
+      alt="Followers"
+    >
+  </a>
+
+  <a href="https://github.com/knvavinashreddy?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/knvavinashreddy?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=white&color=E98BC3&labelColor=555555"
+      alt="Stars"
+    >
+  </a>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=knvavinashreddy&style=for-the-badge&label=PROFILE%20VIEWS&color=E98BC3&labelColor=555555"
+    alt="Profile views"
+  >
 </div>
 
 <br>
