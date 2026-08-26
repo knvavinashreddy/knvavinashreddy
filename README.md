@@ -16,7 +16,7 @@
   <br><br>
 
   
-  <p> Hey there, I'm Avinash Reddy Konala 👋 <p/>
+  <h2> Hey there, I'm Avinash Reddy Konala 👋 <h2/>
 
   <a href="https://github.com/[YOUR_USERNAME]">
     <img
