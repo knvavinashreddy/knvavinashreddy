@@ -19,19 +19,19 @@
   
   <h1> Hey there, I'm Avinash Reddy Konala 👋 <h1/>
 
- <a href="https://github.com/knvavinashreddy"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI/ML+Engineer;Creative+Web+Developer;Problem+Solver;Open+Source+Enthusiast;Content+Creator" alt="Typing animation" > </a>
+ <a href="https://github.com/knvavinashreddy" style="text-decoration:none;font-size:25px;"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI/ML+Engineer;Creative+Web+Developer;Problem+Solver;Open+Source+Enthusiast;Content+Creator" alt="Typing animation" > </a>
 
 
   <div align="center">
 
-  <a href="https://github.com/knvavinashreddy?tab=followers">
+  <a href="https://github.com/knvavinashreddy?tab=followers" style="text-decoration:none;">
     <img
       height="32"
       src="https://img.shields.io/github/followers/knvavinashreddy?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=E98BC3&labelColor=555555"
       alt="Followers"
     >
   </a>
-  <a href="https://github.com/knvavinashreddy?tab=repositories">
+  <a href="https://github.com/knvavinashreddy?tab=repositories" style="text-decoration:none;">
     <img
       height="32"
       src="https://img.shields.io/github/stars/knvavinashreddy?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=white&color=E98BC3&labelColor=555555"
