@@ -8,12 +8,13 @@
 
   <!-- Top-Level Profile Banner -->
   <img
-    src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1787750264/ChatGPT_Image_Aug_26_2026_06_47_36_PM_kyvqvx.png"
-    width="100%"
-    alt="[Avinash Reddy Konala] GitHub Profile Banner"
-  />
+  src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1787755612/ChatGPT_Image_Aug_26_2026_08_16_24_PM_x0m4gk.png"
+  width="100%"
+  alt="[Avinash Reddy Konala] GitHub Profile Banner"
+  style="border-radius: 15px;"
+/>
 
-  <br><br>
+  <br>
 
   
   <h1> Hey there, I'm Avinash Reddy Konala 👋 <h1/>
