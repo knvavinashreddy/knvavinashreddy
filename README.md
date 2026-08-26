@@ -8,10 +8,10 @@
 
   <!-- Top-Level Profile Banner -->
   <img
-    src="./assets/focus-banner.png"
-    alt="[Avinash Reddy Konala] — Focus, Discipline & Growth"
+    src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1787749908/78d01131a22d6d0684bd9c359734c8c4_mgvdx5.jpg"
     width="100%"
-  />
+    alt="[Avinash Reddy Konala] GitHub Profile Banner"
+  >
 
   <br><br>
 
