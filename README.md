@@ -15,24 +15,7 @@
 
   <br><br>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=180&section=header"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:F8BBD0,100:EF93C4&height=180&section=header"
-    >
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=180&section=header"
-      width="100%"
-      alt="Decorative pink header"
-    >
-  </picture>
-
-  <br>
-
+  
   # Hey there, I'm [Avinash Reddy Konala] 👋
 
   <a href="https://github.com/[YOUR_USERNAME]">
