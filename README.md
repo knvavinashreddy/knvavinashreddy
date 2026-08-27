@@ -65,37 +65,34 @@
   <tr>
     <td width="65%" valign="middle">
 
-### # Hi, I'm Avinash Reddy Konala 👋
+<ul>
+  <li>💻 <strong>Full Stack Developer</strong> passionate about building modern web applications.</li>
+  <li>🤖 Built <strong>RAG workflow systems</strong> using LLMs, embeddings & vector databases.</li>
+  <li>🧠 Practicing <strong>DSA</strong> regularly on LeetCode & Codeforces.</li>
+  <li>🌱 Currently learning <strong>System Design, Cloud & DevOps.</strong></li>
+  <li>🚀 Building <strong>AI-powered projects</strong> and contributing to <strong>Open Source.</strong></li>
+  <li>🎨 Exploring <strong>Creative Web Development</strong> and creating engaging digital experiences.</li>
+  <li>🔭 Next up: <strong>AI, ML, Data Science & Data Analytics.</strong></li>
+  <li>🎯 Goal: Create products that <strong>solve real-world problems.</strong></li>
+  <li>🌌 Passionate about <strong>AI, astronomy, art, painting,</strong> and building things that matter.</li>
+  <li>🎥 Sharing what I learn and build on <strong>YouTube.</strong></li>
+  <li>✨ Always chasing the <strong>next idea worth building.</strong></li>
+</ul>
 
-**Full-Stack Developer | Problem Solver | Content Creator**
+<br>
 
-* 🚀 Building **full-stack web applications** with modern web technologies
-* 🤖 Built **RAG workflow systems** using LLMs, embeddings & vector databases
-* 🧠 Practicing **DSA** regularly on LeetCode & Codeforces
-* 🌱 Currently exploring **Creative Web Development** & **Open Source**
-* 🔭 Next up: **AI, ML, Data Science & Data Analytics**
-* 🎥 Sharing what I learn and build on **YouTube**
-
-**Code • Learn • Build • Share • Contribute**
-
-
-> *"Discipline today. Success tomorrow."*
+<p align="center">
+  <strong>Code • Learn • Build • Share • Contribute</strong>
+</p>
 
     </td>
 
     <td width="35%" align="center">
 
 <img
-  src="https://github.com/knvavinashreddy.png"
-  width="220"
-  alt="[Avinash Reddy Konala] GitHub avatar"
-/>
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/Focus-Build%20%26%20Grow-FF69B4?style=for-the-badge&logo=github&logoColor=white"
-  alt="Focus"
+  src="[YOUR_ABOUT_ME_IMAGE_URL]"
+  width="290"
+  alt="Avinash Reddy Konala"
 />
 
     </td>
@@ -105,7 +102,6 @@
 <br>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
