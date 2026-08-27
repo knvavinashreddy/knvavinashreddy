@@ -59,32 +59,38 @@
 
 ---
 
+## 🌸 About Me
+
 <table align="center">
-  <tr>
-    <td width="65%" valign="middle">
+<tr>
+
+<td width="65%" valign="middle">
 
 <ul>
-  <li>💻 <strong>Full-Stack Developer</strong> passionate about building modern, creative web applications.</li>
-  <li>🤖 Exploring <strong>AI/ML, RAG systems, Data Science</strong> and building AI-powered projects.</li>
-  <li>🧠 Strengthening <strong>DSA, System Design, Cloud & DevOps</strong> through continuous learning.</li>
-  <li>🌱 Contributing to <strong>Open Source</strong> and turning ideas into products that solve real-world problems.</li>
-  <li>🎨 Passionate about <strong>AI, astronomy, art & content creation</strong> — sharing what I learn and build.</li>
-  <li>✨ <strong>Code • Learn • Build • Share • Contribute</strong></li>
+<li>💻 <strong>Full-Stack Developer</strong> passionate about building modern, creative web applications.</li>
+<li>🤖 Exploring <strong>AI/ML, RAG systems, Data Science</strong> and building AI-powered projects.</li>
+<li>🧠 Strengthening <strong>DSA, System Design, Cloud & DevOps</strong> through continuous learning.</li>
+<li>🌱 Contributing to <strong>Open Source</strong> and turning ideas into products that solve real-world problems.</li>
+<li>🎨 Passionate about <strong>AI, astronomy, art & content creation</strong> — sharing what I learn and build.</li>
+<li>✨ <strong>Code • Learn • Build • Share • Contribute</strong></li>
 </ul>
 
-    </td>
+</td>
 
-    <td width="35%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
 <img
-  src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1787832122/ChatGPT_Image_Aug_27_2026_05_31_40_PM_whc3jx.png"
-  width="300"
-  alt="Avinash Reddy Konala"
+src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1787832122/ChatGPT_Image_Aug_27_2026_05_31_40_PM_whc3jx.png"
+width="280"
+alt="Avinash Reddy Konala"
 />
 
-    </td>
-  </tr>
+</td>
+
+</tr>
 </table>
+
+<br>
 
 ---
 ## 🛠️ Tech Stack
