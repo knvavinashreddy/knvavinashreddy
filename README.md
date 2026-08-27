@@ -65,17 +65,19 @@
   <tr>
     <td width="65%" valign="middle">
 
-### Hi, I'm [Avinash Reddy Konala]!
+### # Hi, I'm Avinash Reddy Konala 👋
 
-I'm a passionate **[YOUR_ROLE]** who enjoys transforming ideas into elegant, scalable, and meaningful digital experiences.
+**Full-Stack Developer | Problem Solver | Content Creator**
 
-- 🚀 Currently building **[CURRENT_PROJECT / FOCUS]**
-- 🌱 Currently learning **[CURRENTLY_LEARNING]**
-- 💡 Interested in **[INTEREST_1]**, **[INTEREST_2]** & **[INTEREST_3]**
-- 🤝 Open to collaborating on **[COLLABORATION_INTERESTS]**
-- 💬 Ask me about **[YOUR_EXPERTISE]**
-- 📫 Reach me at **[YOUR_EMAIL]**
-- ⚡ Fun fact: **[YOUR_FUN_FACT]**
+* 🚀 Building **full-stack web applications** with modern web technologies
+* 🤖 Built **RAG workflow systems** using LLMs, embeddings & vector databases
+* 🧠 Practicing **DSA** regularly on LeetCode & Codeforces
+* 🌱 Currently exploring **Creative Web Development** & **Open Source**
+* 🔭 Next up: **AI, ML, Data Science & Data Analytics**
+* 🎥 Sharing what I learn and build on **YouTube**
+
+**Code • Learn • Build • Share • Contribute**
+
 
 > *"Discipline today. Success tomorrow."*
 
@@ -84,7 +86,7 @@ I'm a passionate **[YOUR_ROLE]** who enjoys transforming ideas into elegant, sca
     <td width="35%" align="center">
 
 <img
-  src="https://github.com/[YOUR_USERNAME].png"
+  src="https://github.com/knvavinashreddy.png"
   width="220"
   alt="[Avinash Reddy Konala] GitHub avatar"
 />
