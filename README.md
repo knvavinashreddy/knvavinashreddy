@@ -59,47 +59,32 @@
 
 ---
 
-## 🌸 About Me
-
 <table align="center">
   <tr>
     <td width="65%" valign="middle">
 
 <ul>
-  <li>💻 <strong>Full Stack Developer</strong> passionate about building modern web applications.</li>
-  <li>🤖 Built <strong>RAG workflow systems</strong> using LLMs, embeddings & vector databases.</li>
-  <li>🧠 Practicing <strong>DSA</strong> regularly on LeetCode & Codeforces.</li>
-  <li>🌱 Currently learning <strong>System Design, Cloud & DevOps.</strong></li>
-  <li>🚀 Building <strong>AI-powered projects</strong> and contributing to <strong>Open Source.</strong></li>
-  <li>🎨 Exploring <strong>Creative Web Development</strong> and creating engaging digital experiences.</li>
-  <li>🔭 Next up: <strong>AI, ML, Data Science & Data Analytics.</strong></li>
-  <li>🎯 Goal: Create products that <strong>solve real-world problems.</strong></li>
-  <li>🌌 Passionate about <strong>AI, astronomy, art, painting,</strong> and building things that matter.</li>
-  <li>🎥 Sharing what I learn and build on <strong>YouTube.</strong></li>
-  <li>✨ Always chasing the <strong>next idea worth building.</strong></li>
+  <li>💻 <strong>Full-Stack Developer</strong> passionate about building modern, creative web applications.</li>
+  <li>🤖 Exploring <strong>AI/ML, RAG systems, Data Science</strong> and building AI-powered projects.</li>
+  <li>🧠 Strengthening <strong>DSA, System Design, Cloud & DevOps</strong> through continuous learning.</li>
+  <li>🌱 Contributing to <strong>Open Source</strong> and turning ideas into products that solve real-world problems.</li>
+  <li>🎨 Passionate about <strong>AI, astronomy, art & content creation</strong> — sharing what I learn and build.</li>
+  <li>✨ <strong>Code • Learn • Build • Share • Contribute</strong></li>
 </ul>
-
-<br>
-
-<p align="center">
-  <strong>Code • Learn • Build • Share • Contribute</strong>
-</p>
 
     </td>
 
-    <td width="35%" align="center">
+    <td width="35%" align="center" valign="middle">
 
 <img
-  src="[YOUR_ABOUT_ME_IMAGE_URL]"
-  width="290"
+  src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1787832122/ChatGPT_Image_Aug_27_2026_05_31_40_PM_whc3jx.png"
+  width="300"
   alt="Avinash Reddy Konala"
 />
 
     </td>
   </tr>
 </table>
-
-<br>
 
 ---
 ## 🛠️ Tech Stack
