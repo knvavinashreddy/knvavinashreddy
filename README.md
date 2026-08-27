@@ -70,7 +70,7 @@
 
 <ul>
 <li>🚀 Building <strong>full-stack web applications</strong> with modern web technologies</li>
-<li>🤖 Built <strong>RAG workflow systems</strong> using LLMs, embeddings & vector databases</li>
+<li>🤖 Built <strong>RAG workflow systems</strong> using LLMs, embeddings & vector DB</li>
 <li>🧠 Practicing <strong>DSA</strong> regularly on LeetCode & Codeforces</li>
 <li>🌱 Currently exploring <strong>Creative Web Development</strong> & <strong>Open Source</strong></li>
 <li>🔭 Next up: <strong>AI, ML, Data Science & Data Analytics</strong></li>
