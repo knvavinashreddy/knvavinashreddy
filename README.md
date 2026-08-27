@@ -66,14 +66,18 @@
 
 <td width="65%" valign="middle">
 
+<p><strong>Full-Stack Developer | Problem Solver | Content Creator</strong></p>
+
 <ul>
-<li>💻 <strong>Full-Stack Developer</strong> passionate about building modern, creative web applications.</li>
-<li>🤖 Exploring <strong>AI/ML, RAG systems, Data Science</strong> and building AI-powered projects.</li>
-<li>🧠 Strengthening <strong>DSA, System Design, Cloud & DevOps</strong> through continuous learning.</li>
-<li>🌱 Contributing to <strong>Open Source</strong> and turning ideas into products that solve real-world problems.</li>
-<li>🎨 Passionate about <strong>AI, astronomy, art & content creation</strong> — sharing what I learn and build.</li>
-<li>✨ <strong>Code • Learn • Build • Share • Contribute</strong></li>
+<li>🚀 Building <strong>full-stack web applications</strong> with modern web technologies</li>
+<li>🤖 Built <strong>RAG workflow systems</strong> using LLMs, embeddings & vector databases</li>
+<li>🧠 Practicing <strong>DSA</strong> regularly on LeetCode & Codeforces</li>
+<li>🌱 Currently exploring <strong>Creative Web Development</strong> & <strong>Open Source</strong></li>
+<li>🔭 Next up: <strong>AI, ML, Data Science & Data Analytics</strong></li>
+<li>🎥 Sharing what I learn and build on <strong>YouTube</strong></li>
 </ul>
+
+<p><strong>Code • Learn • Build • Share • Contribute</strong></p>
 
 </td>
 
