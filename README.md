@@ -261,16 +261,12 @@ jobs:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/avinash-reddy-konala/" target="_blank">
+<a href="https://www.linkedin.com/in/avinash-reddy-konala-352a2427a/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A7DBB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a><a href="https://x.com/YOUR_X_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a><a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E83E64?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a><a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-</a><a href="https://www.youtube.com/@YOUR_YOUTUBE_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a><a href="https://leetcode.com/u/Avinash_Reddy_Konala/" target="_blank">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a><a href="https://codeforces.com/profile/avinashreddykonala" target="_blank">
+  <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a><a href="mailto:avinashreddykonala1@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-EF4035?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
