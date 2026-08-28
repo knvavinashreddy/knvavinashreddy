@@ -261,44 +261,35 @@ jobs:
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/avinash-reddy-konala-352a2427a/" target="_blank">
-        <img src="https://img.shields.io/badge/LINKEDIN-0A7DBB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <td>
+      <a href="https://www.linkedin.com/in/avinash-reddy-konala-352a2427a/">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A7DBB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </td>
-
-    <td align="center">
-      <a href="https://leetcode.com/u/Avinash_Reddy_Konala/" target="_blank">
-        <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <td>
+      <a href="https://leetcode.com/u/Avinash_Reddy_Konala/">
+        <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
       </a>
     </td>
-
-    <td align="center">
-      <a href="https://codeforces.com/profile/avinashreddykonala" target="_blank">
-        <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <td>
+      <a href="https://codeforces.com/profile/avinashreddykonala">
+        <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
       </a>
     </td>
-
-    <td align="center">
+    <td>
       <a href="mailto:avinashreddykonala1@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-EF4035?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://img.shields.io/badge/EMAIL-EF4035?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
       </a>
     </td>
   </tr>
 </table>
 
-<p align="center">See you in the next commit 🌸</p>
+<br>
 
+<p align="center">See you in the next commit 🌸</p>
 ---
 
-<p>
-  <img
-    src="https://img.shields.io/badge/FOCUS-DISCIPLINE-PROGRESS-FF69B4?style=for-the-badge"
-    alt="Focus Discipline Progress"
-  />
-</p>
 
-<br>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=140&section=footer"
