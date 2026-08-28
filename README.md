@@ -192,16 +192,16 @@ alt="Avinash Reddy Konala"
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/knvavinashreddy/knvavinashreddy/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/knvavinashreddy/knvavinashreddy/output/github-contribution-grid-snake-dark.svg?v=2"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/knvavinashreddy/knvavinashreddy/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/knvavinashreddy/knvavinashreddy/output/github-contribution-grid-snake.svg?v=2"
   />
   <img
-    src="https://raw.githubusercontent.com/knvavinashreddy/knvavinashreddy/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/knvavinashreddy/knvavinashreddy/output/github-contribution-grid-snake-dark.svg?v=2"
     alt="GitHub Contribution Snake"
-    width="900"
+    width="850"
   />
 </picture>
 
