@@ -259,33 +259,37 @@ jobs:
 
 <hr>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/avinash-reddy-konala-352a2427a/" target="_blank">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A7DBB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
 
-<a href="https://www.linkedin.com/in/avinash-reddy-konala-352a2427a/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A7DBB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a><a href="https://leetcode.com/u/Avinash_Reddy_Konala/" target="_blank">
-  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a><a href="https://codeforces.com/profile/avinashreddykonala" target="_blank">
-  <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a><a href="mailto:avinashreddykonala1@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EF4035?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+    <td align="center">
+      <a href="https://leetcode.com/u/Avinash_Reddy_Konala/" target="_blank">
+        <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+      </a>
+    </td>
 
-<br><br>
+    <td align="center">
+      <a href="https://codeforces.com/profile/avinashreddykonala" target="_blank">
+        <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+      </a>
+    </td>
 
-See you in the next commit 🌸
+    <td align="center">
+      <a href="mailto:avinashreddykonala1@gmail.com">
+        <img src="https://img.shields.io/badge/EMAIL-EF4035?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-</div>
+<p align="center">See you in the next commit 🌸</p>
 
 ---
-
-<div align="center">
-
-### 💗 Thanks for stopping by!
-
-<i>Let's build something amazing together.</i>
-
-<br><br>
 
 <p>
   <img
