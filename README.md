@@ -99,38 +99,30 @@ alt="Avinash Reddy Konala"
 ---
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<table align="center" border="0" cellspacing="0" cellpadding="12">
+<table align="center">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" width="50%">
       <h3>Languages</h3>
       <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,cpp" alt="Languages"/>
     </td>
-
-    <td align="center" valign="top">
+    <td align="center" width="50%">
       <h3>Frameworks & Libraries</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,threejs" alt="Frameworks and Libraries"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,threejs" alt="Frameworks & Libraries"/>
     </td>
   </tr>
-
   <tr>
-    <td align="center" valign="top">
+    <td align="center" width="50%">
       <h3>Databases</h3>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
     </td>
-
-    <td align="center" valign="top">
+    <td align="center" width="50%">
       <h3>Tools</h3>
       <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Tools"/>
     </td>
   </tr>
 </table>
 
-</div>
-
 <br>
-
 
 
 ---
