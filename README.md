@@ -122,7 +122,6 @@ alt="Avinash Reddy Konala"
 </table>
 
 
----
 
 ## 🔥 GitHub Streak
 
@@ -139,7 +138,6 @@ alt="Avinash Reddy Konala"
 
 <br>
 
----
 
 ## 🐍 Contribution Snake
 
