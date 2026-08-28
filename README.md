@@ -185,9 +185,9 @@ alt="Avinash Reddy Konala"
 
 <div align="center">
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/knvavinashreddy">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=[Avinash%20Reddy%20Konala]%27s%20Contribution%20Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=knvavinashreddy&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=[Avinash%20Reddy%20Konala]%27s%20Contribution%20Graph"
     width="95%"
     alt="GitHub contribution activity graph"
   />
