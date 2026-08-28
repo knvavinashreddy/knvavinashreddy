@@ -255,53 +255,17 @@ jobs:
 
 ---
 
-## 🤝 Connect With Me
+🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/avinash-reddy-konala/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-avinash-reddy-konala-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+<a href="https://www.linkedin.com/in/avinash-reddy-konala/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-avinash--reddy--konala-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
 
-<a href="https://x.com/[YOUR_X]">
-  <img
-    src="https://img.shields.io/badge/X-@[YOUR_X]-F8BBD0?style=for-the-badge&logo=x&logoColor=white"
-    alt="X"
-  />
-</a>
+<a href="https://x.com/YOUR_X_USERNAME" target="_blank"> <img src="https://img.shields.io/badge/X-%40YOUR__X__USERNAME-F8BBD0?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a>
 
-<!-- <a href="https://www.instagram.com/[YOUR_INSTAGRAM]/">
-  <img
-    src="https://img.shields.io/badge/Instagram-@[YOUR_INSTAGRAM]-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
+<a href="https://www.youtube.com/@YOUR_YOUTUBE_USERNAME" target="_blank"> <img src="https://img.shields.io/badge/YouTube-%40YOUR__YOUTUBE__USERNAME-F8BBD0?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a>
 
-<br><br>
-
-<a href="https://www.tiktok.com/@[YOUR_TIKTOK]">
-  <img
-    src="https://img.shields.io/badge/TikTok-@[YOUR_TIKTOK]-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white"
-    alt="TikTok"
-  />
-</a> -->
-
-<a href="https://www.youtube.com/@[YOUR_YOUTUBE]">
-  <img
-    src="https://img.shields.io/badge/YouTube-@[YOUR_YOUTUBE]-F8BBD0?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="YouTube"
-  />
-</a>
-
-<a href="mailto:avinashreddykonala1@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-avinashreddykonala1@gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+<a href="mailto:avinashreddykonala1@gmail.com"> <img src="https://img.shields.io/badge/Email-avinashreddykonala1%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
 
 </div>
 
