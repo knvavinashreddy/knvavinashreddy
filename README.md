@@ -101,51 +101,103 @@ alt="Avinash Reddy Konala"
 
 <div align="center">
 
-### Languages
+<h3>Languages</h3>
 
-<a href="https://skillicons.dev">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,cpp"
-    alt="HTML, CSS, Python, JavaScript, TypeScript, C++"
-  />
-</a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
-### Frameworks & Libraries
+<h3>Frameworks & Libraries</h3>
 
-<a href="https://skillicons.dev">
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,threejs"
-    alt="React, Next.js, Node.js, Redux, React Three Fiber"
-  />
-</a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" alt="React.js"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redux" alt="Redux.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=threejs" alt="React Three Fiber"/>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
-### Databases
+<h3>Databases</h3>
 
-<a href="https://skillicons.dev">
-  <img
-    src="https://skillicons.dev/icons?i=mysql,mongodb"
-    alt="MySQL, MongoDB"
-  />
-</a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+    </td>
+  </tr>
+</table>
 
-<br><br>
 
-### Tools
 
-<a href="https://skillicons.dev">
-  <img
-    src="https://skillicons.dev/icons?i=git,vscode,figma"
-    alt="Git, VS Code, Figma"
-  />
-</a>
+<h3>Tools</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 </div>
 
-<br>
+
 
 ---
 
@@ -171,7 +223,7 @@ alt="Avinash Reddy Konala"
 
 </div>
 
-<br>
+
 
 ---
 
