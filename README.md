@@ -251,9 +251,6 @@ jobs:
 
 </div>
 
-<br>
-
----
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -287,7 +284,6 @@ jobs:
 <br>
 
 <p align="center">See you in the next commit 🌸</p>
----
 
 
 
