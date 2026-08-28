@@ -132,7 +132,7 @@ alt="Avinash Reddy Konala"
 <a href="https://github.com/knvavinashreddy">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=knvavinashreddy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=EF93C4&text_color=8A8A8A&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=knvavinashreddy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=EF93C4&text_color=D0D0D0&bg_color=00000000&cache_seconds=86400"
     alt="GitHub statistics"
   />
 </a>
@@ -140,12 +140,14 @@ alt="Avinash Reddy Konala"
 <a href="https://github.com/knvavinashreddy">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=knvavinashreddy&layout=compact&hide_border=true&langs_count=8&title_color=FF69B4&text_color=8A8A8A&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=knvavinashreddy&layout=compact&hide_border=true&langs_count=8&title_color=FF69B4&text_color=D0D0D0&bg_color=00000000&cache_seconds=86400"
     alt="Top languages"
   />
 </a>
 
 </div>
+
+<br>
 
 
 
