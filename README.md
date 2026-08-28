@@ -101,62 +101,31 @@ alt="Avinash Reddy Konala"
 
 <div align="center">
 
-<h3>Languages</h3>
+<table align="center" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td align="center" valign="top">
+      <h3>Languages</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,cpp" alt="Languages"/>
+    </td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
-</p>
+    <td align="center" valign="top">
+      <h3>Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,threejs" alt="Frameworks and Libraries"/>
+    </td>
+  </tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
-</p>
+  <tr>
+    <td align="center" valign="top">
+      <h3>Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
+    </td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
-</p>
-
-<br>
-
-<h3>Frameworks & Libraries</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux.js"/>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs" alt="React Three Fiber"/>
-</p>
-
-<br>
-
-<h3>Databases</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
-</p>
-
-<br>
-
-<h3>Tools</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
-</p>
+    <td align="center" valign="top">
+      <h3>Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Tools"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
