@@ -95,7 +95,7 @@ alt="Avinash Reddy Konala"
 </table>
 
 
----
+
 ## 🛠️ Tech Stack
 
 <table align="center">
