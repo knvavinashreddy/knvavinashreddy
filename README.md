@@ -103,99 +103,64 @@ alt="Avinash Reddy Konala"
 
 <h3>Languages</h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
+</p>
 
 <br>
 
 <h3>Frameworks & Libraries</h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" alt="React.js"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=redux" alt="Redux.js"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=threejs" alt="React Three Fiber"/>
-    </td>
-    <td></td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React.js"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux.js"/>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs" alt="React Three Fiber"/>
+</p>
 
 <br>
 
 <h3>Databases</h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+</p>
 
-
+<br>
 
 <h3>Tools</h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
-    </td>
-    <td></td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
+</p>
 
 </div>
+
+<br>
 
 
 
