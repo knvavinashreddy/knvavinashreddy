@@ -185,7 +185,6 @@ alt="Avinash Reddy Konala"
 <br>
 
 ---
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -208,25 +207,6 @@ alt="Avinash Reddy Konala"
 </div>
 
 <br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/knvavinashreddy/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/knvavinashreddy/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    src="https://raw.githubusercontent.com/knvavinashreddy/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="GitHub contribution snake animation"
-  >
-</picture>
-
-</div>
-
 
 <h2 align="center">🌐 Let's Connect</h2>
 
