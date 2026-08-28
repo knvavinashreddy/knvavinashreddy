@@ -142,18 +142,18 @@ alt="Avinash Reddy Konala"
 
 <div align="center">
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/knvavinashreddy">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=EF93C4&text_color=8A8A8A&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=knvavinashreddy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=EF93C4&text_color=8A8A8A&bg_color=00000000"
     alt="GitHub statistics"
   />
 </a>
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/knvavinashreddy">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&hide_border=true&langs_count=8&title_color=FF69B4&text_color=8A8A8A&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=knvavinashreddy&layout=compact&hide_border=true&langs_count=8&title_color=FF69B4&text_color=8A8A8A&bg_color=00000000"
     alt="Top languages"
   />
 </a>
@@ -168,9 +168,9 @@ alt="Avinash Reddy Konala"
 
 <div align="center">
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/knvavinashreddy">
   <img
-    src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=F8BBD0&dates=8A8A8A"
+    src="https://streak-stats.demolab.com?user=knvavinashreddy&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=F8BBD0&dates=8A8A8A"
     alt="GitHub streak"
   />
 </a>
@@ -236,14 +236,14 @@ jobs:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/knvavinashreddy/output/github-contribution-grid-snake-dark.svg"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/knvavinashreddy/output/github-contribution-grid-snake.svg"
   >
   <img
-    src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/[YOUR_USERNAME]/knvavinashreddy/output/github-contribution-grid-snake.svg"
     width="95%"
     alt="GitHub contribution snake animation"
   >
@@ -259,9 +259,9 @@ jobs:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]/">
+<a href="https://www.linkedin.com/in/avinash-reddy-konala/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-[YOUR_LINKEDIN]-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-avinash-reddy-konala-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
@@ -273,7 +273,7 @@ jobs:
   />
 </a>
 
-<a href="https://www.instagram.com/[YOUR_INSTAGRAM]/">
+<!-- <a href="https://www.instagram.com/[YOUR_INSTAGRAM]/">
   <img
     src="https://img.shields.io/badge/Instagram-@[YOUR_INSTAGRAM]-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram"
@@ -287,7 +287,7 @@ jobs:
     src="https://img.shields.io/badge/TikTok-@[YOUR_TIKTOK]-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white"
     alt="TikTok"
   />
-</a>
+</a> -->
 
 <a href="https://www.youtube.com/@[YOUR_YOUTUBE]">
   <img
@@ -296,9 +296,9 @@ jobs:
   />
 </a>
 
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:avinashreddykonala1@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-[YOUR_EMAIL]-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Email-avinashreddykonala1@gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
