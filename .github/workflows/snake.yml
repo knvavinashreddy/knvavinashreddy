@@ -18,12 +18,10 @@ jobs:
         with:
           github_user_name: knvavinashreddy
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake.svg?color_snake=%23FF69B4&color_dots=%23291C2C,%236F2D5C,%23D16CA5,%23FFB7D5,%23FFD9E8
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF69B4&color_dots=%23291C2C,%236F2D5C,%23D16CA5,%23FFB7D5,%23FFD9E8
 
-      - name: Publish snake files
+      - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
