@@ -105,8 +105,8 @@ alt="Avinash Reddy Konala"
 
 <a href="https://skillicons.dev">
   <img
-    src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,c,html,css"
-    alt="Programming languages"
+    src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,cpp"
+    alt="HTML, CSS, Python, JavaScript, TypeScript, C++"
   />
 </a>
 
@@ -116,19 +116,30 @@ alt="Avinash Reddy Konala"
 
 <a href="https://skillicons.dev">
   <img
-    src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux,django,flask"
-    alt="Frameworks and libraries"
+    src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,threejs"
+    alt="React, Next.js, Node.js, Redux, React Three Fiber"
   />
 </a>
 
 <br><br>
 
-### Tools, Cloud & Databases
+### Databases
 
 <a href="https://skillicons.dev">
   <img
-    src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,mongodb,postgresql,mysql,redis,figma,vscode"
-    alt="Tools cloud and databases"
+    src="https://skillicons.dev/icons?i=mysql,mongodb"
+    alt="MySQL, MongoDB"
+  />
+</a>
+
+<br><br>
+
+### Tools
+
+<a href="https://skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=git,vscode,figma"
+    alt="Git, VS Code, Figma"
   />
 </a>
 
