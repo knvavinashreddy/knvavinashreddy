@@ -187,8 +187,6 @@ alt="Avinash Reddy Konala"
 ---
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
