@@ -122,35 +122,6 @@ alt="Avinash Reddy Konala"
 </table>
 
 
-
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/knvavinashreddy">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=knvavinashreddy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=EF93C4&text_color=D0D0D0&bg_color=00000000&cache_seconds=86400"
-    alt="GitHub statistics"
-  />
-</a>
-
-<a href="https://github.com/knvavinashreddy">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=knvavinashreddy&layout=compact&hide_border=true&langs_count=8&title_color=FF69B4&text_color=D0D0D0&bg_color=00000000&cache_seconds=86400"
-    alt="Top languages"
-  />
-</a>
-
-</div>
-
-<br>
-
-
-
 ---
 
 ## 🔥 GitHub Streak
@@ -170,23 +141,6 @@ alt="Avinash Reddy Konala"
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/knvavinashreddy">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=knvavinashreddy&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true&custom_title=[Avinash%20Reddy%20Konala]%27s%20Contribution%20Graph"
-    width="95%"
-    alt="GitHub contribution activity graph"
-  />
-</a>
-
-</div>
-
-<br>
-
----
 ## 🐍 Contribution Snake
 
 <div align="center">
