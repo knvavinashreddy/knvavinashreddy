@@ -161,7 +161,6 @@ alt="Avinash Reddy Konala"
 
 </div>
 
-<br>
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -191,7 +190,7 @@ alt="Avinash Reddy Konala"
   </tr>
 </table>
 
-<br>
+
 
 <p align="center">See you in the next commit 🌸</p>
 
