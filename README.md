@@ -64,7 +64,7 @@
 <table align="center">
 <tr>
 
-<td width="65%" valign="middle">
+<td width="70%" valign="middle">
 
 <p><strong>Full-Stack Developer | Problem Solver | Content Creator</strong></p>
 
@@ -81,7 +81,7 @@
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
 <img
 src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1789054286/ChatGPT_Image_Sep_10_2026_08_31_54_PM_a0ngpp.png"
