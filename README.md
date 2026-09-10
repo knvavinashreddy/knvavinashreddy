@@ -88,7 +88,7 @@
     width="280"
     height="280"
     alt="Avinash Reddy Konala"
-    style="display: block; width: 300px; height: 300px; object-fit: cover;"
+    style="display: block; width: 280px; height: 280px; object-fit: cover;"
   />
 </td>
 
