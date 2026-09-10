@@ -86,7 +86,7 @@
   <img
     src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1789054286/ChatGPT_Image_Sep_10_2026_08_31_54_PM_a0ngpp.png"
     width="300"
-    height="300"
+    height="280"
     alt="Avinash Reddy Konala"
     style="display: block; width: 300px; height: 300px; object-fit: cover;"
   />
