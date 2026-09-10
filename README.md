@@ -22,7 +22,7 @@
  <a href="https://github.com/knvavinashreddy" style="font-size:25px;"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI/ML+Engineer;Creative+Web+Developer;Problem+Solver;Open+Source+Enthusiast;Content+Creator" alt="Typing animation" > </a>
 
 
-  <div align="center">
+ <div align="center">
 
 <table>
   <tr>
@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-</div>
+</div> 
 
 
 
@@ -64,7 +64,7 @@
 <table align="center">
 <tr>
 
-<td width="70%" valign="middle">
+<td width="65%" valign="middle">
 
 <p><strong>Full-Stack Developer | Problem Solver | Content Creator</strong></p>
 
@@ -81,7 +81,7 @@
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
 <img
 src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1789054286/ChatGPT_Image_Sep_10_2026_08_31_54_PM_a0ngpp.png"
