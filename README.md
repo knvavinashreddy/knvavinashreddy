@@ -81,11 +81,14 @@
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td
+  width="35%"
+  align="center"
+  valign="middle"
+  style="width: 300px; height: 300px; padding: 0; overflow: hidden;"
+>
   <img
     src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1789054286/ChatGPT_Image_Sep_10_2026_08_31_54_PM_a0ngpp.png"
-    width="300"
-    height="300"
     alt="Avinash Reddy Konala"
     style="width: 100%; height: 100%; object-fit: cover; display: block;"
   />
