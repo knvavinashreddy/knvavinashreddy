@@ -84,7 +84,7 @@
 <td width="35%" align="center" valign="middle">
 
 <img
-src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1787832122/ChatGPT_Image_Aug_27_2026_05_31_40_PM_whc3jx.png"
+src="https://res.cloudinary.com/dtyoq5yod/image/upload/v1789054286/ChatGPT_Image_Sep_10_2026_08_31_54_PM_a0ngpp.png"
 width="280"
 alt="Avinash Reddy Konala"
 />
