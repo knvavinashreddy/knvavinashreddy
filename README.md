@@ -21,7 +21,7 @@
 
  <a href="https://github.com/knvavinashreddy" style="font-size:25px;"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI/ML+Engineer;Creative+Web+Developer;Problem+Solver;Open+Source+Enthusiast;Content+Creator" alt="Typing animation" > </a>
 
-```
+```html
  <div align="center">
 
 <table>
@@ -187,6 +187,9 @@
 
 
 <p align="center">See you in the next commit 🌸</p>
+
+
+
 
 
 
