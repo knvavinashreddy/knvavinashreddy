@@ -6,3 +6,7 @@ srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg">
 <img alt="Avinash Reddy Konala" src="https://raw.githubusercontent.com/knvavinashreddy/knvavinashreddy/main/
 light.svg">
 </picture>
+
+
+
+![Avinash's GitHub Stats](https://github-readme-stats-21hv.vercel.app/api?username=knvavinashreddy&show_icons=true&theme=tokyonight)
