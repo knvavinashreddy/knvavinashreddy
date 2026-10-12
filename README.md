@@ -1,8 +1,8 @@
 <picture>
 <source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/dark.svg">
+srcset="https://raw.githubusercontent.com/knvavinashreddy/knvavinashreddy/main/dark.svg">
 <source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg">
-<img alt="YOUR NAME" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/
+<img alt="Avinash Reddy Konala" src="https://raw.githubusercontent.com/knvavinashreddy/knvavinashreddy/main/
 light.svg">
 </picture>
