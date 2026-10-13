@@ -14,9 +14,6 @@
   />
 </picture>
 
-<!-- Standalone Top Languages Card — preserve the original URL -->
-![Top Languages](https://github-readme-stats-21hv.vercel.app/api/top-langs/?username=knvavinashreddy&layout=compact&langs_count=6&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&custom_title=Languages)
-
 <div align="center">
 
   <!-- GitHub Contribution Streak -->
@@ -35,8 +32,8 @@
     alt="GitHub Statistics"
   /><img
     width="49%"
-    src="https://github-readme-stats-21hv.vercel.app/api/top-langs/?username=knvavinashreddy&layout=compact&langs_count=6&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&custom_title=Most%20Used%20Languages"
-    alt="Most Used Languages"
+    src="https://github-readme-stats-21hv.vercel.app/api/top-langs/?username=knvavinashreddy&layout=compact&langs_count=6&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&custom_title=Languages"
+    alt="Languages"
   />
 
 </div>
