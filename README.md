@@ -16,9 +16,10 @@ light.svg">
 
 
 
+
 <div align="center">
 
-  <!-- GitHub Streak -->
+  <!-- GitHub Contribution Streak -->
   <img
     width="800"
     src="https://streak-stats.demolab.com/?user=knvavinashreddy&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=800"
@@ -27,18 +28,15 @@ light.svg">
 
   <br/><br/>
 
-  <!-- Stats and Languages: side by side -->
+  <!-- GitHub Stats and Languages: Side by Side -->
   <img
     width="49%"
     src="https://github-readme-stats-21hv.vercel.app/api?username=knvavinashreddy&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F"
     alt="GitHub Statistics"
+  /><img
+    width="49%"
+    src="https://github-readme-stats-21hv.vercel.app/api/top-langs/?username=knvavinashreddy&layout=compact&langs_count=6&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&custom_title=Languages"
+    alt="Most Used Languages"
   />
-  
-<img
-  width="49%"
-  src="https://github-readme-stats-21hv.vercel.app/api/top-langs/?username=knvavinashreddy&layout=compact&langs_count=6&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&custom_title=Languages"
-  alt="Most Used Languages"
-/>
-
 
 </div>
