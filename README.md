@@ -32,10 +32,13 @@ light.svg">
     width="49%"
     src="https://github-readme-stats-21hv.vercel.app/api?username=knvavinashreddy&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F"
     alt="GitHub Statistics"
-  /><img
-    width="49%"
-    src="https://github-readme-stats-21hv.vercel.app/api/top-langs/?username=knvavinashreddy&layout=compact&langs_count=6&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F"
-    alt="Most Used Languages"
   />
+  
+<img
+  width="49%"
+  src="https://github-readme-stats-21hv.vercel.app/api/top-langs/?username=knvavinashreddy&layout=compact&langs_count=6&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&custom_title=Languages"
+  alt="Most Used Languages"
+/>
+
 
 </div>
